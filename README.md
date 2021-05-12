@@ -1,10 +1,10 @@
-Hey there 👋
+:smiley: Hey there 👋
 
 <p>Checkout this Netflix clone page after login
 
 # Netflix-Clone
 
-:stars::stars:Netflix Clone created with React ,Axios and React Redux
+:stars::stars:Netflix Clone created with React ,Axios and React Redux :star2::star2::star2
 
 <img src="https://media.giphy.com/media/zR9zePx9i1nVPbhPvV/giphy.gif" width="400" >
 
